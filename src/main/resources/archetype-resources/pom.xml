@@ -11,6 +11,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+<<<<<<< HEAD
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
@@ -69,4 +70,7 @@
     </plugins>
   </build>
 
+=======
+  </dependencies>
+>>>>>>> origin/master
 </project>

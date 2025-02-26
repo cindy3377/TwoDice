@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd5aab0a-2d28-4d40-84c2-50522730aa06" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TwoDiceTest.java" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/checksums/checksums.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
@@ -158,8 +172,11 @@
       <change beforePath="$PROJECT_DIR$/../FinalLab/images/screenshot_4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../FinalLab/settings.gradle.kts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +191,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> origin/master
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -190,12 +211,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< HEAD
     "git-widget-placeholder": "master",
+=======
+    "git-widget-placeholder": "main",
+>>>>>>> origin/master
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+<<<<<<< HEAD
     "nodejs_package_manager_path": "npm",
+=======
+>>>>>>> origin/master
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.20303383",
     "project.structure.side.proportion": "0.2855263",
@@ -236,7 +264,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740574353428</updated>
+<<<<<<< HEAD
       <workItem from="1740574354929" duration="1884000" />
+=======
+      <workItem from="1740574354929" duration="452000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
