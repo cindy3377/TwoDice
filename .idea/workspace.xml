@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd5aab0a-2d28-4d40-84c2-50522730aa06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TwoDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TwoDiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxDatastoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxNavigationRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxRoomLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxWorkLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$AndroidxWorkRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$CoilLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$ConverterLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$Retrofit2LibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxActivityLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxComposeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxCoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxDatastoreLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxEspressoLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxLifecycleRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxNavigationLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxNavigationRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxRoomLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiTestLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxUiToolingLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxWorkLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$AndroidxWorkRuntimeLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$BundleAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$CoilLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$ConverterLibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$KotlinPluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$PluginAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$Retrofit2LibraryAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock$VersionAccessors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/classes/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/metadata.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/sources/org/gradle/accessors/dm/LibrariesForLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/88c677adfb6a087a8c10eacc6126eb9d70454972/sources/org/gradle/accessors/dm/LibrariesForLibsInPluginsBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/8.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/androidTest/java/com/example/parliamentmembers/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/FinalParliamentApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/PMApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/data/AppContainer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/data/DataDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/data/DataRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/database/FinalParliament.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/model/ParliamentMember.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/network/DataApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/network/RetrofitInstance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/components/CustomImageDisplay.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/navigation/MembersViewGraph.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/view/Comment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/view/Home.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/view/Main.kt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/view/Member.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/view/Members.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/viewmodels/AppViewModelProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/viewmodels/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/viewmodels/MemberListViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/viewmodels/MemberViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/viewmodels/NoteViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/ui/viewmodels/TopBarViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/workers/Basic.kt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/java/com/example/parliamentmembers/workers/CustomWorkerFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/drawable/x_logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/app/src/test/java/com/example/parliamentmembers/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/.idea/images.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/screenshot_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/screenshot_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/screenshot_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/screenshot_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/images/screenshot_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalLab/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2tZzNXsuwnNFwRRyG8AVgteV9qA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.20303383",
+    "project.structure.side.proportion": "0.2855263",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TwoDiceTest">
+    <configuration name="DiceGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TwoDice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DiceGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TwoDice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TwoDiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwoDiceTest" />
+        <item itemvalue="JUnit.DiceGameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd5aab0a-2d28-4d40-84c2-50522730aa06" name="Changes" comment="" />
+      <created>1740574353428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740574353428</updated>
+      <workItem from="1740574354929" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
